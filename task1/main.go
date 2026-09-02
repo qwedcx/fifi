@@ -4,9 +4,9 @@ import "fmt"
 
 func intRes() string{
 switch {
-	case intRes > 0:
+	case  > 0:
 		fmt.Println("Число положительное")
-	case intRes < 0:
+	case  < 0:
 		fmt.Println("Число отрицательное")
 	default:
 		fmt.Println("Число равно 0")
